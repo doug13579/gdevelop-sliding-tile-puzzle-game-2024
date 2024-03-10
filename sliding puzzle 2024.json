@@ -112,7 +112,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.76193626771976,
+        "zoomFactor": 0.7130377630690399,
         "windowMask": false
       },
       "objectsGroups": [
@@ -143,11 +143,6 @@
           "name": "y",
           "type": "number",
           "value": 0
-        },
-        {
-          "name": "movingTiles",
-          "type": "boolean",
-          "value": false
         }
       ],
       "instances": [
